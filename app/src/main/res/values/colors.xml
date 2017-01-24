@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="viewfinder_mask">#3f000000</color>
+    <color name="viewfinder_laser">#FF4000</color>
+    <color name="viewfinder_border">#ffafed44</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonborder">#abafed44</color>
+    <color name="buttonborderstroke">#bb000000</color>
+    <color name="backgroundbase">#77b144</color>
+</resources>

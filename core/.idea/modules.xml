@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../barcodescanner-master.iml" filepath="$PROJECT_DIR$/../barcodescanner-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core.iml" filepath="$PROJECT_DIR$/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zbar/zbar.iml" filepath="$PROJECT_DIR$/../zbar/zbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zbar-sample/zbar-sample.iml" filepath="$PROJECT_DIR$/../zbar-sample/zbar-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zxing/zxing.iml" filepath="$PROJECT_DIR$/../zxing/zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zxing-sample/zxing-sample.iml" filepath="$PROJECT_DIR$/../zxing-sample/zxing-sample.iml" />
+    </modules>
+  </component>
+</project>
